@@ -46,11 +46,11 @@ Click Below Picture To Open VChat Bot Owner Id...
 [![MONSTAR QUEEN](https://graph.org/file/9aba2fd27562b921ae51b.jpg)](https://t.me/MONSTER_QUEENN)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [MONSTAR QUEEN](https://t.me/MONSTER_QUEENN)
 
 ## 💕 Special Thanks
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
+✅ MONSTAR Thanks For Fixed All Error Or Lovely Support 💕
 
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [MONSTAR QUEEN](https://t.me/MONSTER_QUEENN) & [MONSTAR](https://t.me/MONSTER_TERA_BAAP1)
