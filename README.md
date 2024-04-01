@@ -37,13 +37,13 @@ Click Below Picture To Open VChat Bot Owner Id...
 
 ## YouTube 📺
 
-[YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
+[YouTube Channel](https://youtube.com/@Art_by_Mansi6872?si=X4eJ1qlZv4ArHP-d)
 
 
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![MONSTAR QUEEN](https://graph.org/file/9aba2fd27562b921ae51b.jpg)](https://t.me/MONSTER_QUEENN)
 
 
 #### Main Developer = [Bikash](https://t.me/BikashHalder)
