@@ -3,20 +3,20 @@ Best Smart Artificial intelligence Chat bot For Telegram Groups
 Click Below Picture To Open VChat Bot Owner Id...
 
 
-<p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/e30f5a295dd0ca45f0163.jpg"></a></p>
+<p align="center"><a href="https://t.me/MANSI74130"><img src="https://graph.org/file/ae93da62ddd3a346de21f.jpg"></a></p>
 
 
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashhalderNew/BikashChatBot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MANSI74130/ChatBot)
 
 
 ## Deploy
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
 ## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
- At 1st Import This Repo Then Input All Value In Bikash.py || Then Proceed Kaali Linux Value Or Ect.
+ At 1st Import This Repo Then Input All Value In MANSI.py || Then Proceed Kaali Linux Value Or Ect.
 
 ## 🥀 Kaali Linux Tutorial
 
@@ -27,13 +27,13 @@ Click Below Picture To Open VChat Bot Owner Id...
 [Kaali Linux](https://youtu.be/fFRxAG1mCVU)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[Monstar Queen](http://t.me/MONSTER_QUEENN)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/monstarlove)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/monstarqueen)
 
 ## YouTube 📺
 
