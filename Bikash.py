@@ -57,7 +57,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕", url=f"https://t.me/naksh77_bot"?startgroup=true")
+                        "➕ ❰ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕", url=f"https://t.me/monsterchat_bot"?startgroup=true")
                 ]
                 
            ]
@@ -65,7 +65,7 @@ async def start_(client: Client, message: Message):
     )
     
     
-@bot.on_message(filters.command(["/start", f"start@monstarchat_bot", "/alive", ".alive", "#bikash", "#aditya"]) & filters.group)
+@bot.on_message(filters.command(["/start", f"start@monstarchat_bot", "/alive", ".alive", "#naksh", "#naksh"]) & filters.group)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/f6ee8c18d8a1770631848.mp4",
